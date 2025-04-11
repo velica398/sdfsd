@@ -1,4 +1,4 @@
 document.getElementById('L').addEventListener('click', function () {
-    const url = 'https://wa.me/6281234567890';
+    const url = 'https://youtube.com/';
     window.open(url, '_self');
   });
